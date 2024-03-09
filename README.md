@@ -1,10 +1,4 @@
 # Sentimental_Analysis
-Certainly! Below is a concise description suitable for a GitHub repository:
-
----
-
-**Sentiment Analyzer App**
-
 The Sentiment Analyzer App is a Python-based web application that performs sentiment analysis on text inputs. It utilizes the VADER Sentiment Analysis tool to determine the sentiment of the text as positive, negative, or neutral. The app provides real-time analysis results along with detailed sentiment scores, making it a useful tool for understanding the sentiment of textual data.
 
 link: https://emosense-ibiu.onrender.com
